@@ -1,0 +1,5 @@
+java -jar demo-0.0.1-SNAPSHOT.jar
+java -Dserver.port=8093 -jar demo-0.0.1-SNAPSHOT.jar
+
+ctrl + c
+
